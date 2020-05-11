@@ -1,0 +1,4 @@
+# www.robotstxt.org/
+# Aloow crawling of all content
+User-agent: *
+Disallow:
