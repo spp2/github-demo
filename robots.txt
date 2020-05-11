@@ -1,4 +1,5 @@
 # www.robotstxt.org/
-# Aloow crawling of all content
+# Allow crawling of all content
 User-agent: *
 Disallow:
+# This line has comments to demonstrate the "git pull" command
